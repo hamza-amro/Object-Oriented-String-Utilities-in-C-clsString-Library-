@@ -1,0 +1,11 @@
+﻿  ConsoleApplication1.cpp
+F:\10 Opp course\String library project\ConsoleApplication1\ConsoleApplication1\clsString.h(122,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+F:\10 Opp course\String library project\ConsoleApplication1\ConsoleApplication1\clsString.h(221,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+F:\10 Opp course\String library project\ConsoleApplication1\ConsoleApplication1\clsString.h(244,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'ConsoleApplication1.cpp')
+  
+  ConsoleApplication1.vcxproj -> F:\10 Opp course\String library project\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
